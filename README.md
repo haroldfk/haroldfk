@@ -73,13 +73,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-Haroldfk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haroldfk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-Haroldfk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroldfk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-Haroldfk&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroldfk&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -87,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1-Haroldfk&theme=tokyonight&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=haroldfk&theme=tokyonight&no-frame=true&margin-w=10"/>
 </div>
 
 ---
@@ -95,7 +95,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1-Haroldfk&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haroldfk&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
