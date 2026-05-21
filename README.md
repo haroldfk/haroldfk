@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harold Fokam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Future+AI+Engineer;Spring+Boot+%26+Java+Developer;Cisco+%26+Networks+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Future+Cyber+Engineer;Spring+Boot+%26+Java+Developer;Cisco+%26+Networks+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
